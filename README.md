@@ -1,4 +1,4 @@
-# PhD_Research_Polynomiall
+# PhD_Research_Polynomial
 Welding Sparks Flying Trajectory Polynomial / PhD Research
 
 Should compare with Kalman filter
